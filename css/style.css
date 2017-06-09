@@ -35,8 +35,34 @@ body {
     text-align: center;
 }
 
+
 .main h1 {
 	font-size: 3em;
+}
+
+@media screen and (max-width: 720px) {
+	body {
+		width: 80%;
+	}
+	.main p {
+		font-size: 150%;
+	}
+	.main h1 {
+		font-size: 200%;
+	}
+
+}
+@media screen and (max-width: 320px) {
+	body {
+		width: 90%;
+	}
+	.main p {
+		font-size: 90%;
+	}
+	.main h1 {
+		font-size: 120%;
+	}
+
 }
 
 .main p:first-child {
