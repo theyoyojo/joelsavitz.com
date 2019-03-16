@@ -6,7 +6,7 @@ This is me:
 
 [Here is my github](https://github.com/theyoyojo)
 
-[Here is my resume](./resume.pdf)
+[Here is my resume (a bit out of date compared to my linkedin)](./resume.pdf)
 
 [Here is my linkedin](https://www.linkedin.com/in/joelsavitz/)
 
