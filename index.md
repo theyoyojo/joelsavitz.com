@@ -2,7 +2,7 @@
 
 This is me:
 
-![oops the image link is broken!](./me.jpg)
+<img src="me.jpg" alt="oops, the image link is broken!" width="1em" />
 
 [Here is my github](https://github.com/theyoyojo)
 
