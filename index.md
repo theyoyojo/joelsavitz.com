@@ -17,19 +17,17 @@ ga('send', 'pageview');
 
 <link rel="stylesheet" type="text/css" href="index.css" />
 
-### Joel Savitz' Personal Website
+# Joel Savitz
+### Personal Website
 
 This is me:
 
 <a href="me.jpg"><img src="me.jpg" alt="oops, the image link is broken!" style="width:auto;height:400;" /></a>
 <a href="also_me.jpg"><img src="also_me.jpg" alt="oops, the image link is broken!" style="width:auto;height:400;" /></a>
 
-[Here is my github](https://github.com/theyoyojo)
-
-[Here is my resume](./resume.pdf)
-
-[Here is my linkedin](https://www.linkedin.com/in/joelsavitz/)
-
+[Here is my github](https://github.com/theyoyojo) | 
+[Here is my resume](./resume.pdf) |
+[Here is my linkedin](https://www.linkedin.com/in/joelsavitz/) |
 [I started TechSimple](http://techsimple.co)
 
 [You can contact me here](mailto:joelsavitz@gmail.com)
