@@ -15,6 +15,14 @@ This is me:
 
 [You can contact me here](mailto:joelsavitz@gmail.com)
 
+Publications:
+
+[MYR: A Web-Based Platform for Teaching Coding Using VR (ACM 2019)](https://dl.acm.org/citation.cfm?id=3287482) [Full text](berns_et_al.pdf)
+
+[Mycelium Unknown (Self 2017)](mushrooms.html) [Full text](mycelium_unknown.pdf)
+
+[The Future of intelligence (Self 2017)](ai.html) [Full text](the_future_of_intelligence.pdf)
+
 <script>
 (function(b, o, i, l, e, r) {
 b.GoogleAnalyticsObject = l;
