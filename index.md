@@ -2,8 +2,8 @@
 
 This is me:
 
-<a href="me.jpg"><img src="me.jpg" alt="oops, the image link is broken!" style="width:200px;height:auto;" /></a>
-<a href="alsome.jpg"><img src="alsome.jpg" alt="oops, the image link is broken!" style="width:200px;height:auto;" /></a>
+<a href="me.jpg"><img src="me.jpg" alt="oops, the image link is broken!" style="width:auto;height:400;" /></a>
+<a href="also_me.jpg"><img src="also_me.jpg" alt="oops, the image link is broken!" style="width:auto;height:400;" /></a>
 
 [Here is my github](https://github.com/theyoyojo)
 
