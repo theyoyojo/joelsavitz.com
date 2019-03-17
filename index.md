@@ -1,29 +1,10 @@
-<script>
-(function(b, o, i, l, e, r) {
-b.GoogleAnalyticsObject = l;
-b[l] || (b[l] =
-    function() {
-	(b[l].q = b[l].q || []).push(arguments)
-    });
-b[l].l = +new Date;
-e = o.createElement(i);
-r = o.getElementsByTagName(i)[0];
-e.src = 'https://www.google-analytics.com/analytics.js';
-r.parentNode.insertBefore(e, r)
-}(window, document, 'script', 'ga'));
-ga('create', 'UA-100780087-3', 'auto');
-ga('send', 'pageview');
-</script>
-
-<link rel="stylesheet" type="text/css" href="index.css" />
-
 # Joel Savitz
 ### Personal Website
 
 This is me:
 
-<a href="me.jpg"><img src="me.jpg" alt="oops, the image link is broken!" style="width:auto;height:400;" /></a>
-<a href="also_me.jpg"><img src="also_me.jpg" alt="oops, the image link is broken!" style="width:auto;height:400;" /></a>
+[![oops, the image link is broken!](me25.jpg)](me.jpg)
+[![oops, the image link is broken!](also_me25.jpg)](also_me.jpg)
 
 [Here is my github](https://github.com/theyoyojo) | 
 [Here is my resume](./resume.pdf) |
@@ -31,6 +12,8 @@ This is me:
 [I started TechSimple](http://techsimple.co)
 
 I currently work full time as a Linux kernel engineer co-op intern at [Red Hat](https://redhat.com) | [You can contact me here](mailto:joelsavitz@gmail.com)
+
+You can view this website's live production source [right here](https://github.com/theyoyojo/joelsavitz.com)
 
 Publications:
 
