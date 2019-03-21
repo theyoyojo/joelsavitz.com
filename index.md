@@ -11,7 +11,9 @@ This is me:
 [Here is my linkedin](https://www.linkedin.com/in/joelsavitz/) |
 [I started TechSimple](http://techsimple.co)
 
-I currently work full time as a Linux kernel engineer co-op intern at [Red Hat](https://redhat.com) | [You can contact me here](mailto:joelsavitz@gmail.com)
+I currently work full time as a Linux kernel engineer co-op intern at [Red Hat](https://redhat.com)
+
+[You can contact me here](mailto:joelsavitz@gmail.com)
 
 You can view this website's live production source [right here](https://github.com/theyoyojo/joelsavitz.com)
 
