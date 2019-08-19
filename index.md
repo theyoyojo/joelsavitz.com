@@ -29,7 +29,7 @@ Publications:
 
 Presentations:
 
-[\[UPCOMING\] IoT Sensor Networks for Environmental Monitoring](https://devconfus2019.sched.com/event/RFCh/iot-sensor-networks-for-environmental-monitoring)
+[IoT Sensor Networks for Environmental Monitoring](https://devconfus2019.sched.com/event/RFCh/iot-sensor-networks-for-environmental-monitoring)
 
 <script>
 var links = document.links;
