@@ -16,13 +16,38 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */ 
 
+hr {
+  background: #add8e6 ;
+  height: 2px ;
+  border: 0px ;
+}
+
 body {
+  padding-top: 10px;
   display: block ;
   margin: auto ;
-  width: 50% ;
+  width: 40% ;
+  font-family: courier ;
 }
 
 img {
-  width: auto ;
-  height: 400 ;
+  width: 35% ;
+  height: auto ;
+}
+
+a {
+  color: #2db8d4 ;
+}
+
+a:visited {
+  color: #005d70 ;
+}
+
+p {
+  font-size: 11pt ;
+}
+
+h5 {
+  font-size: 14pt ;
+  margin: 0 ;
 }
