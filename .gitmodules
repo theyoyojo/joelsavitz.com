@@ -1,4 +1,4 @@
 
 [submodule "resume"]
 	path = resume
-	url = git@github.com:theyoyojo/resume
+	url = https://github.com/theyoyojo/resume
