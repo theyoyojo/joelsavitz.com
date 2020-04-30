@@ -8,7 +8,7 @@ This is me:
 
 <hr>
 
-##### [Here is my github](https://github.com/theyoyojo) | [Here is my resume](resume/resume.pdf) | [Here is my linkedin](https://www.linkedin.com/in/joelsavitz/)
+##### [Here is my github](https://github.com/theyoyojo) | [Here is my resume](resume.pdf) | [Here is my linkedin](https://www.linkedin.com/in/joelsavitz/)
 
 <hr>
 
