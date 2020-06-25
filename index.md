@@ -20,6 +20,10 @@ I work part time as a Linux kernel engineer at [Red Hat](https://redhat.com) on 
 
 You can view this website's source code [right here](https://github.com/theyoyojo/joelsavitz.com).
 
+##### Packages:
+	
+[RPi.GPIO2](https://pypi.org/project/RPi.GPIO2/) [\[source\]](https://github.com/underground-software/python3-libgpiod-rpi)
+
 ##### Publications:
 
 [MYR: A Web-Based Platform for Teaching Coding Using VR (ACM 2019)](https://dl.acm.org/citation.cfm?id=3287482) [\[Full text\]](berns_et_al.pdf)
@@ -31,6 +35,7 @@ You can view this website's source code [right here](https://github.com/theyoyoj
 ##### Presentations:
 
 [IoT Sensor Networks for Environmental Monitoring (DevConf.US 2019)](https://devconfus2019.sched.com/event/RFCh/iot-sensor-networks-for-environmental-monitoring) [\[Video\]](https://youtu.be/LcBJ9cD9PlA)
+
 <script>
 var links = document.links;
 for (var i = 0, linksLength = links.length; i < linksLength; i++) {
