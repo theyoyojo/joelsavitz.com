@@ -26,6 +26,8 @@ You can view this website's source code [right here](https://github.com/theyoyoj
 
 ##### Publications:
 
+[Raising An Axe to the Axioms (Self 2020)](axe.html) [\[Full text\]](axe2axioms.pdf)
+
 [MYR: A Web-Based Platform for Teaching Coding Using VR (ACM 2019)](https://dl.acm.org/citation.cfm?id=3287482) [\[Full text\]](berns_et_al.pdf)
 
 [Network Rivalry: a Low-Latency Game for the BBC Micro:bit (instructables.com 2018)](https://www.instructables.com/id/Network-Rivalry-a-Low-Latency-Game-for-the-BBC-Mic/)
