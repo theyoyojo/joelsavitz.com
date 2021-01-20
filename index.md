@@ -12,9 +12,11 @@ This is me:
 
 <hr>
 
-I am in the final year of a Bachelor of Science in Computer Science and Mathematical Sciences at the [University Of Massachusetts Lowell](https://uml.edu).
 
-I work part time as a Linux kernel engineer at [Red Hat](https://redhat.com) on their [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) operating system. I plan to work there full time following my graduation this December 2020.
+I am a Linux kernel engineer at [Red Hat](https://redhat.com). I work on the [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) operating system.
+
+I am a recent graduate of the [University Of Massachusetts Lowell](https://uml.edu) from whom I received a
+Bachelor of Science in Computer Science and Mathematical Sciences.
 
 [You can contact me here](mailto:joelsavitz@gmail.com)
 
