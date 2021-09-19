@@ -18,9 +18,7 @@ I am a Linux kernel engineer at [Red Hat](https://redhat.com). I work on the [Re
 I am a recent graduate of the [University Of Massachusetts Lowell](https://uml.edu) from whom I received a
 Bachelor of Science in Computer Science and Mathematical Sciences.
 
-[You can contact me here](mailto:joelsavitz@gmail.com)
-
-You can view this website's source code [right here](https://github.com/theyoyojo/joelsavitz.com).
+[You can contact me here](mailto:joelsavitz@gmail.com) and you can view this website's source code [right here](https://github.com/theyoyojo/joelsavitz.com).
 
 ##### Packages:
 	
@@ -39,6 +37,8 @@ You can view this website's source code [right here](https://github.com/theyoyoj
 ##### Presentations:
 
 [IoT Sensor Networks for Environmental Monitoring (DevConf.US 2019)](https://devconfus2019.sched.com/event/RFCh/iot-sensor-networks-for-environmental-monitoring) [\[Video\]](https://youtu.be/LcBJ9cD9PlA)
+
+[Fedora Linux for the Raspberry Pi Platform (DevConf.US 2021)](https://devconfus2021.sched.com/event/lkgk/fedora-linux-for-the-raspberry-pi-platform) [\[Video\]](https://www.youtube.com/watch?v=w7MYQdGxm74)
 
 <script>
 var links = document.links;
