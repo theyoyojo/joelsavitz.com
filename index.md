@@ -26,6 +26,8 @@ Bachelor of Science in Computer Science and Mathematical Sciences.
 
 ##### Publications:
 
+[Diet Advice from Classical Antiquity (Self 2021)](diet.html) [\[Full text\]](diet.pdf)
+
 [Raising An Axe to the Axioms (Self 2020)](axe.html) [\[Full text\]](axe2axioms.pdf)
 
 [MYR: A Web-Based Platform for Teaching Coding Using VR (ACM 2019)](https://dl.acm.org/citation.cfm?id=3287482) [\[Full text\]](berns_et_al.pdf)
