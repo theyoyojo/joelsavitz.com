@@ -3,8 +3,8 @@
 
 This is me:
 
-[![Joel in a suit](me25.jpg)](me.jpg)
-[![Joel not in a suit](also_me25.jpg)](also_me.jpg)
+[![Joel smiling](me_smiling.jpg)](me_smiling.jpg)
+[![Joel not smiling](me_not_smiling.jpg)](me_not_smiling.jpg)
 
 <hr>
 
@@ -15,14 +15,14 @@ This is me:
 
 I am a Linux kernel engineer at [Red Hat](https://redhat.com). I work on the [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) operating system.
 
-I am a recent graduate of the [University Of Massachusetts Lowell](https://uml.edu) from whom I received a
+I am a graduate of the [University Of Massachusetts Lowell](https://uml.edu) from whom I received a
 Bachelor of Science in Computer Science and Mathematical Sciences.
 
 [You can contact me here](mailto:joelsavitz@gmail.com) and you can view this website's source code [right here](https://github.com/theyoyojo/joelsavitz.com).
 
 ##### Packages:
 	
-[RPi.GPIO2](https://pypi.org/project/RPi.GPIO2/) [\[source\]](https://github.com/underground-software/python3-libgpiod-rpi)
+[RPi.GPIO2](https://pypi.org/project/RPi.GPIO2/) [\[Source\]](https://github.com/underground-software/python3-libgpiod-rpi) [\[Fedora package\]](https://packages.fedoraproject.org/pkgs/python-rpi-gpio2/python3-rpi-gpio2/)
 
 ##### Publications:
 
@@ -37,6 +37,8 @@ Bachelor of Science in Computer Science and Mathematical Sciences.
 [The Future of intelligence (Self 2017)](ai.html) [\[Full text\]](the_future_of_intelligence.pdf)
 
 ##### Presentations:
+
+[KDLP: Kernel Development Learning Pipeline (FOSDEM 2023)](https://fosdem.org/2023/schedule/event/kdlp_kernel_devel_learning_pipeline/) [\[Video\]](https://video.fosdem.org/2023/UA2.114%20\(Baudoux\)/kdlp_kernel_devel_learning_pipeline.webm) [\[Program website\]](https://kdlp.underground.software)
 
 [IoT Sensor Networks for Environmental Monitoring (DevConf.US 2019)](https://devconfus2019.sched.com/event/RFCh/iot-sensor-networks-for-environmental-monitoring) [\[Video\]](https://youtu.be/LcBJ9cD9PlA)
 
