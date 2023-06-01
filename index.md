@@ -14,6 +14,8 @@ This is me:
 
 
 I am a Linux kernel engineer at [Red Hat](https://redhat.com). I work on the [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) operating system.
+I also lead the [Kernel Development Learning Pipeline](https://kdlp.underground.software) program.
+
 
 I am a graduate of the [University Of Massachusetts Lowell](https://uml.edu) from whom I received a
 Bachelor of Science in Computer Science and Mathematical Sciences.
