@@ -28,6 +28,8 @@ Bachelor of Science in Computer Science and Mathematical Sciences.
 
 ##### Publications:
 
+[Kernel Development Learning Pipeline program brings Linux to college students](https://research.redhat.com/blog/2024/02/26/kernel-development-learning-pipeline-program-brings-linux-to-college-students/])
+
 [Diet Advice from Classical Antiquity (Self 2021)](diet.html) [\[Full text\]](diet.pdf)
 
 [Raising An Axe to the Axioms (Self 2020)](axe.html) [\[Full text\]](axe2axioms.pdf)
