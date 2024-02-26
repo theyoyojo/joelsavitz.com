@@ -28,7 +28,7 @@ Bachelor of Science in Computer Science and Mathematical Sciences.
 
 ##### Publications:
 
-[Kernel Development Learning Pipeline program brings Linux to college students](https://research.redhat.com/blog/2024/02/26/kernel-development-learning-pipeline-program-brings-linux-to-college-students/])
+[Kernel Development Learning Pipeline program brings Linux to college students (Red Hat Research 2024)](https://research.redhat.com/blog/2024/02/26/kernel-development-learning-pipeline-program-brings-linux-to-college-students/])
 
 [Diet Advice from Classical Antiquity (Self 2021)](diet.html) [\[Full text\]](diet.pdf)
 
@@ -41,6 +41,9 @@ Bachelor of Science in Computer Science and Mathematical Sciences.
 [The Future of intelligence (Self 2017)](ai.html) [\[Full text\]](the_future_of_intelligence.pdf)
 
 ##### Presentations:
+[KDLP: Kernel Development Learning Pipeline (Linux Plumber's Conference 2023)](https://youtu.be/ANpp5f121Ck)
+
+[Kernel Development Learning Pipeline (KDLP) (DevConf.CZ 2023)](https://youtu.be/hbvr9AsHikk)
 
 [KDLP: Kernel Development Learning Pipeline (FOSDEM 2023)](https://fosdem.org/2023/schedule/event/kdlp_kernel_devel_learning_pipeline/) [\[Video\]](https://video.fosdem.org/2023/UA2.114%20\(Baudoux\)/kdlp_kernel_devel_learning_pipeline.webm) [\[Program website\]](https://kdlp.underground.software)
 
