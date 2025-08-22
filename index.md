@@ -14,7 +14,8 @@ This is me:
 
 
 I am a Linux kernel engineer at [Red Hat](https://redhat.com). I work on the [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) operating system.
-I also lead the [Kernel Development Learning Pipeline](https://kdlp.underground.software) program.
+
+I am the President of [Underground Software](https://underground.software), a 501(c)(3) nonprofit organization which runs the [Kernel Development Learning Pipeline](https://kdlp.underground.software) program. We produce free and open source educational materials on developing for and contributing to the Linux Kernel.
 
 
 I am a graduate of the [University Of Massachusetts Lowell](https://uml.edu) from whom I received a
@@ -23,7 +24,7 @@ Bachelor of Science in Computer Science and Mathematical Sciences.
 [You can contact me here](mailto:joelsavitz@gmail.com) and you can view this website's source code [right here](https://github.com/theyoyojo/joelsavitz.com).
 
 ##### Packages:
-	
+
 [RPi.GPIO2](https://pypi.org/project/RPi.GPIO2/) [\[Source\]](https://github.com/underground-software/python3-libgpiod-rpi) [\[Fedora package\]](https://packages.fedoraproject.org/pkgs/python-rpi-gpio2/python3-rpi-gpio2/)
 
 ##### Publications:
