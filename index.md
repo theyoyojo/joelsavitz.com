@@ -15,7 +15,7 @@ This is me:
 
 I am a Linux kernel engineer at [Red Hat](https://redhat.com). I work on the [Red Hat Enterprise Linux](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) operating system.
 
-I am the President of [Underground Software](https://underground.software), a 501(c)(3) nonprofit organization which runs the [Kernel Development Learning Pipeline](https://kdlp.underground.software) program. We produce free and open source educational materials on developing for and contributing to the Linux Kernel.
+I am the President of [Underground Software](https://underground.software), a 501\(c\)(3) nonprofit organization which runs the [Kernel Development Learning Pipeline](https://kdlp.underground.software) program. We produce free and open source educational materials on developing for and contributing to the Linux Kernel.
 
 
 I am a graduate of the [University Of Massachusetts Lowell](https://uml.edu) from whom I received a
